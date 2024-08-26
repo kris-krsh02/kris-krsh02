@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there! I'm Kristiana <img src="https://github.com/user-attachments/assets/326050ee-228d-4a46-8e3b-f328e621803e" width="40">
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kris-krsh02&hide=stars&hide_rank=true&show_icons=true&show=reviews)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **kris-krsh02/kris-krsh02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
